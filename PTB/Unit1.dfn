@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\brenno.lima\Documents\Embarcadero\Studio\Carregar dll\Unit1.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\brenno.lima\Documents\Embarcadero\Studio\Carregar dll\Unit1.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43651.7508564815</prop>
+        <prop prop-type="OrigDateTime">43651.7283564815</prop>
+        <prop prop-type="XlatDateTime">43651.7283564815</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">122</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:Form1.Left" resname="O:Form1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Top" resname="O:Form1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Caption" resname="O:Form1.Caption">
+        <source>','</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.ClientHeight" resname="O:Form1.ClientHeight">
+        <source>559</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.ClientWidth" resname="O:Form1.ClientWidth">
+        <source>824</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Color" resname="O:Form1.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731597</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Charset" resname="O:Form1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Color" resname="O:Form1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Height" resname="O:Form1.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Name" resname="O:Form1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.Font.Style" resname="O:Form1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.OldCreateOrder" resname="O:Form1.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.PixelsPerInch" resname="O:Form1.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.TextHeight" resname="O:Form1.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TForm1</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn1.Left" resname="O:Form1.O:BitBtn1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn1.Top" resname="O:Form1.O:BitBtn1.Top">
+        <source>239</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn1.Width" resname="O:Form1.O:BitBtn1.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn1.Height" resname="O:Form1.O:BitBtn1.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn1.Caption" resname="O:Form1.O:BitBtn1.Caption">
+        <source>'Teste &amp;LAN'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn1.TabOrder" resname="O:Form1.O:BitBtn1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn1.OnClick" resname="O:Form1.O:BitBtn1.OnClick">
+        <source>BitBtn1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.Left" resname="O:Form1.O:Panel1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731713</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.Top" resname="O:Form1.O:Panel1.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.Width" resname="O:Form1.O:Panel1.Width">
+        <source>417</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.Height" resname="O:Form1.O:Panel1.Height">
+        <source>201</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.BiDiMode" resname="O:Form1.O:Panel1.BiDiMode">
+        <source>bdLeftToRight</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.ParentBiDiMode" resname="O:Form1.O:Panel1.ParentBiDiMode">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.TabOrder" resname="O:Form1.O:Panel1.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Left" resname="O:Form1.O:Panel1.O:Label1.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Top" resname="O:Form1.O:Panel1.O:Label1.Top">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Width" resname="O:Form1.O:Panel1.O:Label1.Width">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Height" resname="O:Form1.O:Panel1.O:Label1.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Caption" resname="O:Form1.O:Panel1.O:Label1.Caption">
+        <source>'Status'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Font.Charset" resname="O:Form1.O:Panel1.O:Label1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Font.Color" resname="O:Form1.O:Panel1.O:Label1.Font.Color">
+        <source>clRed</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Font.Height" resname="O:Form1.O:Panel1.O:Label1.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Font.Name" resname="O:Form1.O:Panel1.O:Label1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.Font.Style" resname="O:Form1.O:Panel1.O:Label1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label1.ParentFont" resname="O:Form1.O:Panel1.O:Label1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label2.Left" resname="O:Form1.O:Panel1.O:Label2.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731829</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label2.Top" resname="O:Form1.O:Panel1.O:Label2.Top">
+        <source>125</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label2.Width" resname="O:Form1.O:Panel1.O:Label2.Width">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label2.Height" resname="O:Form1.O:Panel1.O:Label2.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Label2.Caption" resname="O:Form1.O:Panel1.O:Label2.Caption">
+        <source>'Usuario logado'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Button1.Left" resname="O:Form1.O:Panel1.O:Button1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Button1.Top" resname="O:Form1.O:Panel1.O:Button1.Top">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Button1.Width" resname="O:Form1.O:Panel1.O:Button1.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Button1.Height" resname="O:Form1.O:Panel1.O:Button1.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Button1.Caption" resname="O:Form1.O:Panel1.O:Button1.Caption">
+        <source>'Config PKCS11'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Button1.TabOrder" resname="O:Form1.O:Panel1.O:Button1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Button1.OnClick" resname="O:Form1.O:Panel1.O:Button1.OnClick">
+        <source>Button1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn3.Left" resname="O:Form1.O:Panel1.O:BitBtn3.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn3.Top" resname="O:Form1.O:Panel1.O:BitBtn3.Top">
+        <source>94</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn3.Width" resname="O:Form1.O:Panel1.O:BitBtn3.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn3.Height" resname="O:Form1.O:Panel1.O:BitBtn3.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn3.Caption" resname="O:Form1.O:Panel1.O:BitBtn3.Caption">
+        <source>'&amp;Caminho'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn3.TabOrder" resname="O:Form1.O:Panel1.O:BitBtn3.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn3.OnClick" resname="O:Form1.O:Panel1.O:BitBtn3.OnClick">
+        <source>BitBtn3Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Edit2.Left" resname="O:Form1.O:Panel1.O:Edit2.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Edit2.Top" resname="O:Form1.O:Panel1.O:Edit2.Top">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Edit2.Width" resname="O:Form1.O:Panel1.O:Edit2.Width">
+        <source>385</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Edit2.Height" resname="O:Form1.O:Panel1.O:Edit2.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Edit2.TabOrder" resname="O:Form1.O:Panel1.O:Edit2.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:Edit2.Text" resname="O:Form1.O:Panel1.O:Edit2.Text">
+        <source>'Edit2'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn4.Left" resname="O:Form1.O:Panel1.O:BitBtn4.Left">
+        <source>224</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508731944</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn4.Top" resname="O:Form1.O:Panel1.O:BitBtn4.Top">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn4.Width" resname="O:Form1.O:Panel1.O:BitBtn4.Width">
+        <source>129</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn4.Height" resname="O:Form1.O:Panel1.O:BitBtn4.Height">
+        <source>34</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn4.Caption" resname="O:Form1.O:Panel1.O:BitBtn4.Caption">
+        <source>'Config caminho'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn4.TabOrder" resname="O:Form1.O:Panel1.O:BitBtn4.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel1.O:BitBtn4.OnClick" resname="O:Form1.O:Panel1.O:BitBtn4.OnClick">
+        <source>BitBtn4Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.Left" resname="O:Form1.O:Panel2.Left">
+        <source>447</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.Top" resname="O:Form1.O:Panel2.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.Width" resname="O:Form1.O:Panel2.Width">
+        <source>369</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.Height" resname="O:Form1.O:Panel2.Height">
+        <source>537</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.TabOrder" resname="O:Form1.O:Panel2.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:PngSpeedButton1.Left" resname="O:Form1.O:Panel2.O:PngSpeedButton1.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TPngSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:PngSpeedButton1.Top" resname="O:Form1.O:Panel2.O:PngSpeedButton1.Top">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TPngSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:PngSpeedButton1.Width" resname="O:Form1.O:Panel2.O:PngSpeedButton1.Width">
+        <source>169</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TPngSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:PngSpeedButton1.Height" resname="O:Form1.O:Panel2.O:PngSpeedButton1.Height">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.750873206</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TPngSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:PngSpeedButton1.Caption" resname="O:Form1.O:Panel2.O:PngSpeedButton1.Caption">
+        <source>'Ler arquivo .ini'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TPngSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:PngSpeedButton1.OnClick" resname="O:Form1.O:Panel2.O:PngSpeedButton1.OnClick">
+        <source>PngSpeedButton1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TPngSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:PngSpeedButton1.PngImage.Data" resname="O:Form1.O:Panel2.O:PngSpeedButton1.PngImage.Data">
+        <source>89504E470D0A1A0A0000000D49484452000000500000004F08060000007C9142E300000006624B474400FF00FF00FFA0BDA793000000097048597300000B1300000B1301009A9C18000012B84944415478DAE59C095C54D5FEC07F77F67D601836154425CDEC55A4A965668B9A6BA2A59659995A696AFFD4C29EBE2CFDA786A6E173A9342BB74C25C3E73FDC79EEDAF29E3E7701151104815960963B33F7CEBDEF77067149815919ECFFF323CC0CE79EE53BBFF35BCE3DF750D00884E7AFBFA4C0DA12B85DFDE1F7230F4391450E8F352B81B88E4701BA6E0590945D2F4D51E1EE754D871B1AD6E27480074EC2F93D5DC527CBF53A975BD0D2C68A9A3BF0BF48C025E36F858D11818B1300C75320A478900ADDA014B39444E8AEC42E9FC7DF056A3153A8933A0BEF8B361A16EDE9CCCC1CB013A8B153FE9C008D5FCE82C8E40BD4C11D4F479558952926A7B41342EBE06085F7F03C95C0F294026109F135F075D4433A2B40A014C5B362016F130BB8528479522E648FA824ECFEE408736E87D9AF9AE8ECB741D177E9DD0D905F3217FAAD791E3EEC7658966FD23E6874487B31BC60809315DE8BDA2527DA1550FDB742E52502CE2217B1A7116A56B4C2B1FDDE28C3E923854D5D6FAD7CF6EE02C8EC7B1916CC7B175A275D521968454F2B231E8153B20B42D3F10142F3463C30855CB94ACCEC5589986F62D5D6BD574A63E9D1690B814AF9A9F102E417CD83CF0E77800EF157D5E74CDA1E552EC99B0EB7B01BCB096421A756CBC0D0A65A512B77464A5DCB5262CBF71698B4F4A0A5A9416F2760D9F7FEF7D0525F21CCB9D0E251032D4B43ADEBCEE0340D07B83B096AA45523716D8996D39FBDD863CFD16327EEE3533E7A232875070490CF5800530F7484CEF165D1972DCAF1A8756FA3D6E9C30DACB681A23616474A9D9FB78CA85A71C1AC35BF99721CA8096901D7EB97FC7BEA2A4899351632C7ADED76D9AA9A51E5127745C7200837A8FA4424E059D4C6EC18053D75D8AAFEA772A77C05ADA78FF1BB3EBF00FEFC3F9910ABA0C5C7CAA38657D0B299342B6AC6FB535198840C5A2166CFC62B6DD37A2715661D2BD7733D160CF5BB2E9FE49F93D74384CCA1F9D7D5E80F4A6D8A09E85D55E106E2AF60805E817671C65389C52B0CB49CEEFCE9709FEBF009E086B737834CC86A8AACCA390687EC2D7414C27043085410A2335AEE98779FCE34ABD22571F45DF8824FD77B0DF0FB31FF00B5C4A5C9376B67A3B318E3C6CC21DC830F9660B8E3D4C99C731F8E2D9B6DA4E58E7E3E40F40A60CEA41F001BD01C2A899D5D4ECBFF54F06A043318679CD23EB76F52E16C344D8E87E7BCEAD575F502DC31693DDCAB338B761624CCBC6253A4FD19A66D6D82D3D981D379E21B733FFC6AFFBC77F8273EAD1F629D00F7BFB70E66FE9A022FB6BE30A2C4AEF8BBCB2D50877B90A1141249C8D1B124A8AD232F55A9B7E0B82179C6C83AAFA91520FFE3FBB064F3B380B9E413E7CD9A3576569410EE013694601E7D2241631D5269979F7D2B351BA8D48C5ACBD60AF087B19B89DD8B3B65885C67764A9FF427CEF32C7DF2A18B10294168162748AD3A9963E3837AE3280B23B6F4FFFBF37596BD4DF67FB01A1EEFB69F5A9E39704E894D31C5EDE72A8A5A2701A556149241726E1E8C571DC03AF8902CCAA16766E214F4C43757F55A726AC617D06EEADBDE035C3E2A9B18D42E4556D526CC6D637C6D9C289D2A420C7DDE6A0EFAA6727C1F5C2DA4F09FC3C5C0811D17E1FC3E27704E080944A598B998A4B6F66738EAD4F0AF9EF30EE0F677378056EA521D298D5D63744807F8D330CFF1A06F2687E72727835C2584604F62D269879381E37917A1F8B8038A0FF3E00E0144521DE6CC2B86B7CD1B7BDA10C93C9AFE72DD008F4DFB0EB6172462AAE61C586697AFF57749EA3AC049AD40AE1685C40C3A51034F2040DAE502C3592E641071269A9A28EDA998EFEF7BFBDBDB57B76F692E735C1649D554A78D911BAC8CB8B7BF8D361440A2814E0448A422441049551AA96B75CF84CBA30AAD2AA6EFC2C1770648063977780EE8E48E54741CDFB3012C8886036028214A500B1354B6017646B47FCC37BD6EB9A57AFD65CEE4F510AFB44BB75F6AB6DE5FDB176E80A18248AA8956D05F8F1BB0E5AD23873B738FA60FBFE56F1EF9F68D9FC9D277C7822A55B6D32D8CBA2B00E62240C675DBDF2ACE20C423C185A810B197DA449A7B624897FBC29281B702BC98BE18466EEE03035BE77F88DA3733E05B8E0D009061DD1E2762A5E95B1991373CD1441E359103CE450505A290E279D4C2310566EDB2F47E3B801AF9D10D8007DEFF1E84025E7FA824765BA553D23ED0C61A0220910A531594961BC1CDDDB981D2132CE4EDB163D01D9CF63033CBEE9774E979F4118EAE9F0DBB0170ED982D2011B8BBE799B59B317056DC2D008970D8D69D027592E69517D961F5CC33200411088581AB218634452D3596EED8E4B997AF05D6149FD71B264C9E010F441BA65EB12966053A7D1B1A606D224080572FDB61C9E4A3388D517BF40ACF678108A6777C82DA3ABADC2EFFE6FDD91940256E01EA50DA5A681F5D2EFAE264BB0D68FF0606D44223024834B00C012E4680550617683412888C0A0CE2356FFCD5F86F7B8EF9E5AF6BA1D39CE140FD349E6C77E063CE9A227663B47D7F4301A48263DBABDBE3E1B674B10620D1C04A0448DA53AB0387A81233FB3A37B9DAC7C5096CDD3F7B1128B26C25A2F8CEB966ED76B47F9A5003247DBF62E7E1EB7C06EC6CE0AA496A485050303259825954DD0089A8D5528428F70B22EF01C8963CA0373C852FCFF5CE180CD482577741A4CC31F4B245B5960DD2727D5D00892D3F69E660D87E1A8C0C1FB016BAB1EE944821AC7D5C061AF18DED71B5010C1422C6CA742B6D553F9CAD392397F701EA6F43F64313A52DAD8C96A707C381D40790B460C7B022BF8A033608C691D4A0145190AC16C0CD8EB62E80814044470298D68DA8744956BEBBB207190F0FCB476F5B566451BE112C5B5F9F0DACDED317A4C6AE41FC6328581FC06A88BEDB44B2C1B385C6F2C9A6F3491F6EDE7D3F86317C1B6AF1EB8BD694D3B261411B5023F2C27501F407228500E315F68C0DB9AD26E61C688D00374CA6D237F725378D1A0C60B0359088DB0F0DBC0E9184383AEF2092122A099371D2A09BB8323B05A8235356533B0A13D6A003691080A403650E1ED65F628076071ECA70F83F5E46C1902431486FDA1BE60B405F2162469251462B262EFCA913506BC66EA6F24D116BD08134084062E84FA0171EBC17BDB08B0FF87105A2790F470A60C31372AFBD70AD10BD742C428ACFC0193B313DB30B5087A7ACA276162636A8065A30FE3B66E48009C20D3552B7460CF0A00E335E1FBC70AD10350851573744B180CB303BA513E76F7A146DE046B48159E1B18141CB4420301BE80B44F28952CC649C31454CFCF6E7F6C40BB7462FBCF8FFAD17F61522A9270EBDF0A6FC961377EE6B1DFC3890AA01D81401BE870055A1B9B15E6F3FA86A808B2691C504A7E7BDAF79C29D2092383009E3C0ACFC161F66E5B4ABCE449A62267235089908F9026C1221B0D8D9C83829F479A339C814A88141BF33EC1D4043090D2B3F390D16930B44F8A5CA68C6E77AFE0851242071A06D848511AF9CB40A3391F9980BEB82900B33D8C0A1A408381DA706165F93054C254EDF706E3B77A361B49818CFA2AB88E5A0D5D9726873B20C049C6F5FE8CD1025028E6E81B9B00373E1515FF721AB3159846AE75C5384DFAB31023472B97A25643E18078C90AA760EBC77FB8AAACBF01E8DB9F1FEF6A731AB579DA9EB9FFFF1FD1D85BAA91E7C2175B0F074762EE8AF5A713AFB36DB6A20AAA5EE92FBF566CF6A4CDF8C4140654DD844D6A563CE1A2277DBFD5C0F24007F4BD0C2D6B6D15895F7D789513BBBC4484085F1DBBE529727ACE9162BF10C7A3FBEB75C5BEE8A9408A02B7E5EE670C32FE50C345108A153B4188A6C6EF8BD82F1DA4090BE75DD751E9A9F3702E7472A4420368B15EDEB9A68E8E360C0D67DFE501207AE85F63115A2A5C7EFF37B45FA3AC07BA3BD0E4DC8A0B5082EBB5714246B45D0FDE70AA8C4C03AA75F9407D0C4C355F0E5199BA75C07BD1876F489825DC54E7871B709529364B0A1BB0ED69DB7C3C8BD66F0764662C881002FF80D907CB1C9B1EE957FFBC76B237EFFEB6278E4D3D7B0CECBFD60C2B8E901DD13F117600402DCD63B0AEE8910C1935BAA01EEEDAF87449510CE995948DD6184B366061E8996C0EE7E7AD859E484C1BB8C30100166F6200069786D8FA9C100A2A9E35B453BC79CBD2A5FB66C703EC8D326558F97ECC09708B9EEB926FFEECA850220912F4EDBE09D4395F05094183533BC0049136A295791D28CEEE9E6A8A36336BC545D27F971206D2D59D6D71F2A89DB66F6E3BE703001EE7F4E0F6E0EC08954E2702A0F45606534077BFA875F0363D4ECAE97DA9B520D36A1ADE7D2D76F002C485F0423B2FAC2A036FEED4C0826C08303F470A1CA0D6BF2ECB0F0312D1C446732EF3F56588F368FD8C0700124F15F72B42B6DEF39F5BC6DD38F03F5CA941B008954EF8D71772CA852FBBC3726D8000B2C6E1884F62F0301BED0520E9908AA4FA20C7622C021610048AAD7C8B82B1D12ECBD1CACE0C4D86BD3F716803993D655EFCE2A4C586F74C87CDA9D150A803DB30DD0163FDF84A0E214020C7928F8F1228D004D0D0E90946C1AC1AC9A35E4F2A85FCFA8D94E0B46DF0ED0B33FF0951C88923B53AF58E53EED0F0C05C0DE5B0D60C1C0F0838754F049078D67F5265C006562BEAA65946B80DD25D83363DB0B77DE1F482473DC4FE4A164D52983CEA71DAA0101C4F8EE1E6DED0063E402D8F88C0EBAC64BC20290944A88746D7DA983714899456C7D6AD1C8DBFE7E5D4E4C5B095B2F358308A96BE0551FF648FB0390880407310861444811D2051A5C486228DABC2A04F753010D0C577DB7ED11CC3A9E8897422EC6863F5F76402B8D08FA254A3DB1E276F4CCA1CC44E462AEEA81A68E972F1AA4FFF759CEA03B02BE457226FF001A894B75E04ABCD7BBF409C0D3B12AD8F49738EC18789DCEDD7C3BB2663C1C7FFB4D27EEDAD68D9ACFF95ACAD5D9169613E337F2F4B63C882DB600E7C57564AAC66B98D5A3BB98461D2F963183BE7EA57E8044968FCE0699D0DDE532794E84ADFF391152092D12C0CEE428381BAD003E444F10052242370F2DF30CF0C06FC59E95196FBE6385842BB837D639D04C0B8F7DBC75F01DCBDC71A407712A3FD67B37B574C5B08F2A68F974B7174B17A480137F5CC2CE5539C88EC6C67408000522C60DEA4A07083DFB09ABB5ABAED522B19077274432533EDE9A387FFBE493F0ECFC51DE0324F2E3B82C72FB2E3AD7AC5D87D9C933DE7513C08D008D1576B0DB98B02CA4D6D93B01DC02AF3688E473BD92DDD4ED1EDBC872ABA872D4F7C3EAAAF5CEC267BE07F337F5C5F4C5DAB1D8AA5C4FB3A2246FBBEAC65CCC68A0C16675797B49C361A4EA87182177E7B66BE21862B688FE93F64E1E50CF4EF31D20918398234F3FD21186B5C91D516223CF0B0BBD7E5EB806A21D2136263DAC0B22E9A742CC19DAC43AC7FE783462E3C7FD4BA1C7A21175D7555F633BD02BB7D599443B0A12675EB12A7D7A629D2CA91B0DF6BB4213090A99987326EA5C53A7ADFBFDF3CCC9EDF8C1CB5EABBF1E6F1AFBE77B3F804EEAD01C2C899B5D6EF7EDCC84BB0122A1201680B38996993BB4BD71F66593C4D1FB8B11DED5E16D63E4C81395C4A5C93345CC46A7E217C4C6389D898884BC53A7E4E63E9C689F6DB00A1D1336BEE4F5B53E056C24D5538A594D41957A4E05EDDBB9318D551331CF7546ABD879AD631DB3AA1CBEC123E273C4BB176DA2F6DAC9452576E50497DBFB938B1A9B774678C6E63A57FA336DAB1695568AE9542F6CDE1FC5AF9461EBBB1B21564E8B8F96EB8797D1B28F31C449F4F6DAC60091D83E8DCC7D3149C74CEBD9CEBEFEDF8552EEB5D5FEED6CF13BE73A3AF53B7868CA7C589D36A7134EE7391697B89BDBCBD3DB3C102B30C4B135BC4D14097877A4C2BDED9E18E74763D6BFF4AF132B3E87BF8C9AE4777D819D1FB870014C3FD8013AC597451756A9C79BC9F981AC77E707D640B4D91A461389D6C9C55C317ADA2FDBC43897E4974B4DEF3C5906EAF7C707566F303A7760CA1A68195B2ECC3997FC6885439686DAE8D509961EC782695FA8214A44BC1553B31D4D2398F4F1EF5EF86DCBA626FC730B5E0F4ADDC13B4375C95C58FC4B0AA4C497A94F57E87A60A8E3D519AAA198CE354B5F5211EFD0ABD85FD5326EDE434D1DBBCF94CAE8C959438235E4E002AC11E6E050F83CFD3D68D3A240556157F6B4BAC423AC8CA80B6AA4AEB6BB7DC1702C35D08468856522CE84D0F66864DC374FB4AE3CB0E2F3C7CDDFB9A60125F931D8C30DE139D25F7C0AA9AB5E80694F9273A4231E3438A4BD9C6E415FF4D8ADD1D968B96B876ED774C0579B78F339D2049A54C4D9E462FE54A482DD8D71DDE60E89F6E3852609FDFC0AEF4E616B74006F16D3F2FF858898726AD7DE2EDA22ABAA2D6AE3533423ECECE2846D19B720969C64CE6366C3B07CB52692E95CCB3293676B30C5B352CC1E3083285649B93C8CE70EE895CCE144BDEB78BFA5CB4C55FBBA81B6DB9C86185A18CED25F9A0E30761A147DB24472CE14196D744813EDACB0B9D32D6C8E9A946CB183E242310356FAC6C2273A018890B9412D733B598ECA4588F9711AA614C3910B8FB4B256347FACD405250AA086FD49CFD2AF17EA756D23B8BA4051D648D8BB5905572D00B15A1E9EED6501FDC0DD18C4EDC33257B0B4104BB2E1EEB647FE0BC05499E6A9E480AD0000002574455874646174653A63726561746500323031392D30362D32315431363A35373A33332B30323A303088954B2F0000002574455874646174653A6D6F6469667900323031392D30362D32315431363A35373A33332B30323A3030F9C8F3930000000049454E44AE426082</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TPngSpeedButton</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Memo1.Left" resname="O:Form1.O:Panel2.O:Memo1.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Memo1.Top" resname="O:Form1.O:Panel2.O:Memo1.Top">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Memo1.Width" resname="O:Form1.O:Panel2.O:Memo1.Width">
+        <source>345</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Memo1.Height" resname="O:Form1.O:Panel2.O:Memo1.Height">
+        <source>401</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Memo1.Lines.Strings[0]" resname="O:Form1.O:Panel2.O:Memo1.Lines.Strings[0]">
+        <source>''</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Memo1.TabOrder" resname="O:Form1.O:Panel2.O:Memo1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TMemo</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Edit1.Left" resname="O:Form1.O:Panel2.O:Edit1.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Edit1.Top" resname="O:Form1.O:Panel2.O:Edit1.Top">
+        <source>503</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Edit1.Width" resname="O:Form1.O:Panel2.O:Edit1.Width">
+        <source>345</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Edit1.Height" resname="O:Form1.O:Panel2.O:Edit1.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Edit1.TabOrder" resname="O:Form1.O:Panel2.O:Edit1.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732176</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Edit1.Text" resname="O:Form1.O:Panel2.O:Edit1.Text">
+        <source>'Edit1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Button2.Left" resname="O:Form1.O:Panel2.O:Button2.Left">
+        <source>191</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Button2.Top" resname="O:Form1.O:Panel2.O:Button2.Top">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Button2.Width" resname="O:Form1.O:Panel2.O:Button2.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Button2.Height" resname="O:Form1.O:Panel2.O:Button2.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Button2.Caption" resname="O:Form1.O:Panel2.O:Button2.Caption">
+        <source>'Button2'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Button2.TabOrder" resname="O:Form1.O:Panel2.O:Button2.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Button2.OnClick" resname="O:Form1.O:Panel2.O:Button2.OnClick">
+        <source>Button2Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Teste.Left" resname="O:Form1.O:Panel2.O:Teste.Left">
+        <source>272</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Teste.Top" resname="O:Form1.O:Panel2.O:Teste.Top">
+        <source>51</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Teste.Width" resname="O:Form1.O:Panel2.O:Teste.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Teste.Height" resname="O:Form1.O:Panel2.O:Teste.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Teste.Caption" resname="O:Form1.O:Panel2.O:Teste.Caption">
+        <source>'Teste'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Teste.TabOrder" resname="O:Form1.O:Panel2.O:Teste.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:Panel2.O:Teste.OnClick" resname="O:Form1.O:Panel2.O:Teste.OnClick">
+        <source>TesteClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn2.Left" resname="O:Form1.O:BitBtn2.Left">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732292</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn2.Top" resname="O:Form1.O:BitBtn2.Top">
+        <source>239</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn2.Width" resname="O:Form1.O:BitBtn2.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn2.Height" resname="O:Form1.O:BitBtn2.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn2.Caption" resname="O:Form1.O:BitBtn2.Caption">
+        <source>'&amp;Usuario'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn2.TabOrder" resname="O:Form1.O:BitBtn2.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn5.Left" resname="O:Form1.O:BitBtn5.Left">
+        <source>262</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn5.Top" resname="O:Form1.O:BitBtn5.Top">
+        <source>239</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn5.Width" resname="O:Form1.O:BitBtn5.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn5.Height" resname="O:Form1.O:BitBtn5.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn5.Caption" resname="O:Form1.O:BitBtn5.Caption">
+        <source>'BitBtn5'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn5.TabOrder" resname="O:Form1.O:BitBtn5.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Form1.O:BitBtn5.OnClick" resname="O:Form1.O:BitBtn5.OnClick">
+        <source>BitBtn5Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43651.7508732407</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

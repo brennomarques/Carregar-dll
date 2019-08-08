@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/21 15:14:05.000.722,=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/31 10:31:59.000.810,=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/31 11:41:24.000.772,C:\Users\brenno.lima\Documents\Embarcadero\Studio\Carregar dll\Unit1.pas=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/31 11:41:24.000.773,C:\Users\brenno.lima\Documents\Embarcadero\Studio\Carregar dll\Unit1.dfm=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/05/31 17:13:35.000.581,C:\Users\brenno.lima\Documents\Embarcadero\Studio\Carregar dll\Project1.dproj=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/07/05 17:40:17.000.442,=C:\Users\brenno.lima\Desktop\Assistente para instalação de drive soluti\ssleay32.dll</Transaction>
+    <Transaction>2019/07/05 17:40:17.000.424,=C:\Users\brenno.lima\Desktop\Assistente para instalação de drive soluti\libeay32.dll</Transaction>
+    <Transaction>2019/07/05 17:56:52.000.237,C:\Users\brenno.lima\Desktop\Assistente para instalação de drive soluti\ssleay32.dll=</Transaction>
+    <Transaction>2019/07/05 17:56:52.000.313,C:\Users\brenno.lima\Desktop\Assistente para instalação de drive soluti\libeay32.dll=</Transaction>
+    <Transaction>2019/07/11 17:31:44.000.752,=C:\Users\brenno.lima\Documents\Embarcadero\Studio\Carregar dll\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
